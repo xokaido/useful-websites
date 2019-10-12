@@ -14,4 +14,4 @@ https://kubernetes.io/docs/concepts/services-networking/service/#external-ips
 https://engineering.springboardvr.com/running-laravel-in-kubernetes-at-scale/
 https://www.eriksuniverse.com/test-galera-kubernetes.html
 https://medium.com/@thanawitsupinnapong/setting-up-percona-xtradb-cluster-in-kubernetes-with-helm-6786fb416198
-
+https://kubernetes.academy/courses/containers-101
