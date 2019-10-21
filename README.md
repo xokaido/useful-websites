@@ -4,7 +4,10 @@ I am putting interesting websites here, they may be useful for you as well but t
 is a personal reference.
 
 - Formatting in GitHub: https://help.github.com/en/articles/basic-writing-and-formatting-syntax
-
+- VueJS SPA + Auth: https://medium.com/@ripoche.b/create-a-spa-with-role-based-authentication-with-laravel-and-vue-js-ac4b260b882f
+- VueJS SPA + Auth: https://github.com/websanova/vue-auth/blob/master/docs/StepByStepGuide.md
+- VueJS SPA + Auth: https://laracasts.com/discuss/channels/general-discussion/what-is-a-right-way-to-authenticate-spa-javascript-application-api?page=1
+- VueJS SPA + Auth: https://serversideup.net/courses/api-driven-development-laravel-vuejs/
 
 
 ## ARtificial Intelligence and Machine Learning
